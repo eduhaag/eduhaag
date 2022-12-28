@@ -11,8 +11,7 @@
     <img src="https://img.shields.io/badge/-Gmail-ff9800?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
-
+<br />
 
 ## 💡 Sobre mim :
  - *Me chamo Eduardo Felipe Haag e sou de Santa Catarina*
@@ -24,25 +23,24 @@
  - *Sou apaixonado por tecnologia e gosto de resolver problemas do dia a dia com o uso dela* 
   
  - *Amo aprender coisas novas todos os dias*
----
+ <br />
+
  ## 💻 Linguages e tecnologias que mais gosto
 
-<center>
+<div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" width="100" alt="Logo do Javascript"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="Logo do typescript" width="100" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Logo do nodeJs" height="100"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Logo do reactJs" width="100" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Logo do Visual Studio Code" width="100">
-</center>
+</div>
+<br />
 
----
-##📈 Minhas Estatísticas
+## 📈 Minhas Estatísticas
 <div align="center">
   <a href="https://github.com/Ricmaloy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduhaag&layout=compact&langs_count=7&theme=react&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduhaag&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+  <br />
+  <img src="https://github.com/eduhaag/eduhaag/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
-
-![Snake animation](https://github.com/eduhaag/eduhaag/blob/output/github-contribution-grid-snake.svg)
- 
-
