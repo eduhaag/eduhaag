@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> me chamo Eduardo </h1>
+  <h1 align="center">Hello World, I'm Eduardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /></h1>
   <h2>Sejá bem vindo</h2>
   <a href="https://www.linkedin.com/in/eduardo-felipe-haag/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
