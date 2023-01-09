@@ -42,5 +42,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduhaag&layout=compact&langs_count=7&theme=react&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduhaag&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/></a>
   <br />
-  <img src="https://github.com/eduhaag/eduhaag/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/eduhaag/eduhaag/blob/output/github-contribution-grid-snake.gif" alt="snake animation" />
 </div>
