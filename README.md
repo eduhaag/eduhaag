@@ -38,8 +38,6 @@
 
 ## 📈 Minhas Estatísticas
 <div align="center">
-  <a href="https://github.com/eduhaag">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduhaaga&show_icons=true&theme=radical)</a>
-  <br />
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduhaag&count_private=true)
   <img src="https://github.com/eduhaag/eduhaag/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
