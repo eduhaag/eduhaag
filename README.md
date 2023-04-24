@@ -28,11 +28,12 @@
  ## 💻 Linguages e tecnologias que mais gosto
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" width="100" alt="Logo do Javascript"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="Logo do typescript" width="100" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Logo do nodeJs" height="100"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Logo do reactJs" width="100" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Logo do Visual Studio Code" width="100">
+  <img src="/images/javascript.png" width="100" alt="Logo do Javascript"/>
+  <img src="/images/typescript.svg" alt="Logo do typescript" width="100" />
+  <img src="/images/node.svg" alt="Logo do nodeJs" height="100"/>
+  <img src="/images/react.svg" alt="Logo do reactJs" width="100" />
+  <img src="/images/angular.svg" alt="Logo do Visual Studio Code" width="100">
+  <img src="/images/vs_code.svg" alt="Logo do Visual Studio Code" width="100">  
 </div>
 <br />
 
