@@ -37,6 +37,9 @@
 </div>
 <br />
 
+## 💻 Projetos que gostei de fazer
+*  [**Meteora Modas**](https://github.com/eduhaag/meteora-modas).
+
 ## 📈 Minhas Estatísticas
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eduhaag&count_private=true&theme=tokyonight" />
