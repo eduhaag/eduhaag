@@ -41,6 +41,7 @@
 ## 💻 Projetos que gostei de fazer
 *  [**Meteora Modas**](https://github.com/eduhaag/meteora-modas).
 *  [**Vue - Study Tracker**](https://github.com/eduhaag/study-tracker)
+*  [**Notiway - Whatsapp Notifyer**](https://github.com/eduhaag/notiway)
 
 ## 📈 Minhas Estatísticas
 <div align="center">
