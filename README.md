@@ -42,6 +42,7 @@
 *  [**Meteora Modas**](https://github.com/eduhaag/meteora-modas).
 *  [**Vue - Study Tracker**](https://github.com/eduhaag/study-tracker)
 *  [**Notiway - Whatsapp Notifyer**](https://github.com/eduhaag/notiway)
+*  [**Github Blog**](https://github.com/eduhaag/github-blog)
 
 ## 📈 Minhas Estatísticas
 <div align="center">
