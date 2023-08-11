@@ -14,15 +14,15 @@
 <br />
 
 ## 💡 Sobre mim :
- - *Me chamo Eduardo Felipe Haag e sou de Santa Catarina*
+ - Me chamo Eduardo Felipe Haag e sou de Santa Catarina;
 
-  - *Sou formado em Administração de empresas (com experiencia na area bancária) e ADS pela Universidade Católica de Santa Catarina*
+  - Sou formado em Administração de empresas (com experiencia na area bancária) e também em Análise e Desenvolvimento de Software pelo Centro Universitário - Católica de Santa Catarina;
 
-  - *Estou em busca da primeira oportunidade profissional como Dev*
+  - Estou em busca da primeira oportunidade profissional como Dev;
  
- - *Sou apaixonado por tecnologia e gosto de resolver problemas do dia a dia com o uso dela* 
+ - Sou apaixonado por tecnologia e gosto de resolver problemas do dia a dia com o uso dela;
   
- - *Amo aprender coisas novas todos os dias*
+ - Amo aprender coisas novas todos os dias.
  <br />
 
  ## 💻 Linguages e tecnologias que mais gosto
@@ -32,13 +32,15 @@
   <img src="/images/typescript.svg" alt="Logo do typescript" width="100" />
   <img src="/images/node.svg" alt="Logo do nodeJs" height="100"/>
   <img src="/images/react.svg" alt="Logo do reactJs" width="100" />
-  <img src="/images/angular.svg" alt="Logo do Visual Studio Code" width="100">
-  <img src="/images/vs_code.svg" alt="Logo do Visual Studio Code" width="100">  
+  <img src="/images/angular.svg" alt="Logo do Angular" width="100" />
+  <img src="/images/vue.svg" alt="Logo do Vue" width="100" />
+  <img src="/images/vs_code.svg" alt="Logo do Visual Studio Code" width="100" />  
 </div>
 <br />
 
 ## 💻 Projetos que gostei de fazer
 *  [**Meteora Modas**](https://github.com/eduhaag/meteora-modas).
+*  [**Vue - Study Tracker**](https://github.com/eduhaag/study-tracker)
 
 ## 📈 Minhas Estatísticas
 <div align="center">
