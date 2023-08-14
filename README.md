@@ -39,10 +39,11 @@
 <br />
 
 ## 💻 Projetos que gostei de fazer
-*  [**Meteora Modas**](https://github.com/eduhaag/meteora-modas).
+*  [**Meteora Modas**](https://github.com/eduhaag/meteora-modas) - Um e-commerce de moda feito em React.js;
 *  [**Vue - Study Tracker**](https://github.com/eduhaag/study-tracker)
 *  [**Notiway - Whatsapp Notifyer**](https://github.com/eduhaag/notiway)
 *  [**Github Blog**](https://github.com/eduhaag/github-blog)
+*  [**Memoteca**](https://github.com/eduhaag/Memoteca)- Um mural de citações, idéias, pensamentos e etc.
 
 ## 📈 Minhas Estatísticas
 <div align="center">
