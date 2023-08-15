@@ -14,15 +14,11 @@
 <br />
 
 ## 💡 Sobre mim :
- - Me chamo Eduardo Felipe Haag e sou de Santa Catarina;
-
-  - Sou formado em Administração de empresas (com experiencia na area bancária) e também em Análise e Desenvolvimento de Software pelo Centro Universitário - Católica de Santa Catarina;
-
-  - Estou em busca da primeira oportunidade profissional como Dev;
- 
- - Sou apaixonado por tecnologia e gosto de resolver problemas do dia a dia com o uso dela;
-  
- - Amo aprender coisas novas todos os dias.
+- Sou formado em Administração de empresas e também em Análise e Desenvolvimento de Software pelo Centro Universitário - Católica de Santa Catarina;
+- Sou apaixonado por tecnologia e gosto de resolver problemas do dia a dia com o uso dela;
+- Amo aprender coisas novas todos os dias;
+- Além da programação, também gosto muito de estudar;
+- Sonho em um dia poder ajudar o mundo com a tecnologia;
  <br />
 
  ## 💻 Linguages e tecnologias que mais gosto
@@ -40,9 +36,9 @@
 
 ## 💻 Projetos que gostei de fazer
 *  [**Meteora Modas**](https://github.com/eduhaag/meteora-modas) - Um e-commerce de moda feito em React.js;
-*  [**Vue - Study Tracker**](https://github.com/eduhaag/study-tracker)
-*  [**Notiway - Whatsapp Notifyer**](https://github.com/eduhaag/notiway)
-*  [**Github Blog**](https://github.com/eduhaag/github-blog)
+*  [**Vue - Study Tracker**](https://github.com/eduhaag/study-tracker) - Um tracker de estudos com temporizador.
+*  [**Notiway - Whatsapp Notifyer**](https://github.com/eduhaag/notiway) - Uma API Rest para envio de notificações via Whatsapp.
+*  [**Github Blog**](https://github.com/eduhaag/github-blog) - Um blog utilizando a API do próprio Github
 *  [**Memoteca**](https://github.com/eduhaag/Memoteca)- Um mural de citações, idéias, pensamentos e etc.
 
 ## 📈 Minhas Estatísticas
